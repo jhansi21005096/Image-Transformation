@@ -279,27 +279,26 @@ plt.show()
 
 ### ii) Image Scaling
 
-![output]()
+![output](https://github.com/jhansi21005096/Image-Transformation/blob/main/output2.png)
 
 
 ### iii)Image shearing
 
-![output]()
+![output](https://github.com/jhansi21005096/Image-Transformation/blob/main/output3.png)
 
 
 ### iv)Image Reflection
 
-![output]()
+![output](https://github.com/jhansi21005096/Image-Transformation/blob/main/output4.png)
 
 ### v)Image Rotation
 
-![output]()
-
+![output](https://github.com/jhansi21005096/Image-Transformation/blob/main/output5.png)
 
 
 ### vi)Image Cropping
 
-![output]()
+![output](https://github.com/jhansi21005096/Image-Transformation/blob/main/output6.png)
 
 ## Result: 
 
