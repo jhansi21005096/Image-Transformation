@@ -275,7 +275,7 @@ plt.show()
 ## Output:
 ### i)Image Translation
 
-![output]()
+![output](https://github.com/jhansi21005096/Image-Transformation/blob/main/output1.png)
 
 ### ii) Image Scaling
 
